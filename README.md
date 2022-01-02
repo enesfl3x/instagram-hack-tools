@@ -3,4 +3,4 @@ Irak ve benzeri hesapları çalabilmek için oluşturulan bir tooldur yapılan h
 
 KOD:
 
-pip install requests
+pkg install requests
